@@ -20,7 +20,7 @@ class AVC: UIViewController {
     // MARK: - Functions
     
     // MARK: - ACtions
-
+//göstermelik
    
     @IBAction func goB(_ sender: UIButton) {
         performSegue(withIdentifier: "goB", sender: nil)
